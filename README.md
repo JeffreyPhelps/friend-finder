@@ -28,7 +28,7 @@ Survey
 
 ## Built With
 
-* Sublime Text - Text Editor
+* Visual Studio Code - Text Editor
 * Materialize - Wireframe
 
 ## Authors
