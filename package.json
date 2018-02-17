@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StefanieDing/friend-finder.git"
+    "url": "git+https://github.com/JeffreyPhelps/friend-finder.git"
   },
   "author": "Stefanie Ding",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StefanieDing/friend-finder/issues"
+    "url": "https://github.com/JeffreyPhelps/friend-finder/issues"
   },
-  "homepage": "https://github.com/StefanieDing/friend-finder#readme",
+  "homepage": "https://github.com/JeffreyPhelps/friend-finder#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
